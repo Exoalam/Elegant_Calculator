@@ -1,10 +1,10 @@
 package com.example.new_sample;
 
-public class branch2 {
+public class branch {
     public int id;
     public String name;
 
-    public branch2() {
+    public branch() {
 
     }
 
