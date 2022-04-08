@@ -5,7 +5,7 @@ public class branch1 {
     public String name;
 
     public branch1() {
-
+        System.out.println("Branch 2");
     }
 
     public int getId() {
